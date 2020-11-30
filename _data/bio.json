@@ -5,7 +5,7 @@
     "picture": "https://arturniederfahrenhorst.github.io/images/me.jpg",
     "email": "artur.niederfahrenhorst@rwth-aachen.de",
     "website": "https://arturn.dev",
-    "summary": "Working on my master's thesis at ICE, RWTH Aachen.",
+    "summary": "Finished my studies in 11/20. I will now try my luck with my startup.",
     "location": {
       "city": "Cologne",
       "countryCode": "Germany"
@@ -25,20 +25,23 @@
   },
   "interests": [
     {
-      "name": "Embedded Systems Security"
-    },
-    {
       "name": "Machine Learning"
     },
     {
-      "name": "Bluetooth communications"
+      "name": "Reinforcement Learning"
+    },
+    {
+      "name": "Pose Estimation"
+    },
+    {
+      "name": "DevOps Stuff"
     }
   ],
   "education": [
     {
       "institution": "TU Dresden",
       "area": "Electrical Engineering",
-      "studyType": "B.S.",
+      "studyType": "Pre Diploma",
       "startDate": "2012",
       "endDate": "2014",
       "gpa": "",
@@ -70,7 +73,7 @@
       "area": "Computer Engineering",
       "studyType": "M.S.",
       "startDate": "2017",
-      "endDate": "present",
+      "endDate": "2020",
       "gpa": "",
       "courses": [
       ]
