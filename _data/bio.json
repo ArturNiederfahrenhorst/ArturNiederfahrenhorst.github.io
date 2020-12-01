@@ -1,11 +1,11 @@
 {
   "basics": {
     "name": "Artur Niederfahrenhorst",
-    "label": "Student",
+    "label": "Junior Dev",
     "picture": "https://arturniederfahrenhorst.github.io/images/me.jpg",
     "email": "artur.niederfahrenhorst@rwth-aachen.de",
     "website": "https://arturn.dev",
-    "summary": "Finished my studies in 11/20. I will now try my luck with my startup.",
+    "summary": "Soon to found an e-health AI startup.",
     "location": {
       "city": "Cologne",
       "countryCode": "Germany"
