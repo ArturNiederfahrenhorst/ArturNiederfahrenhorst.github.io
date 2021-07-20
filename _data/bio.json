@@ -5,7 +5,7 @@
     "picture": "https://arturniederfahrenhorst.github.io/images/me.jpg",
     "email": "artur.niederfahrenhorst@rwth-aachen.de",
     "website": "https://arturn.dev",
-    "summary": "Soon to found an e-health AI startup.",
+    "summary": "Founder and Developer, responsible for Human Motion Analysis.",
     "location": {
       "city": "Cologne",
       "countryCode": "Germany"
@@ -28,13 +28,13 @@
       "name": "Machine Learning"
     },
     {
-      "name": "Reinforcement Learning"
+      "name": "Ray/RLlib"
     },
     {
       "name": "Pose Estimation"
     },
     {
-      "name": "DevOps Stuff"
+      "name": "Motion Analysis"
     }
   ],
   "education": [
